@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+}
+
+.h2 {
+  text-align: left;
+}
+
+input,
+select {
+  margin-top: 25px !important;
+}
+
+.item {
+  margin-right: 40px;
+}
+
+.nav {
+  margin-left: -60px;
+}
+
+.page-link:hover {
+  background-color: rgb(45, 164, 239) !important;
+  color: #fff !important;
+}
+
+option {
+  font-size: 20px !important;
+}
+
+.link2:active {
+  content: url("/index2.html");
+}
